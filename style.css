@@ -22,7 +22,6 @@ h1 {
 
     display: flex;
     justify-content: space-between;
-    align-items: space-between;
     flex-direction: column;
 }
 
@@ -40,13 +39,13 @@ h1 {
 .cor2 {
     background-color: #63B1BC;
     order: 1;
-    margin-left: 10%;
+    margin-left: 12%;
    
 }
 
 .cor3 {
     background-color: #EFB661;
-    margin-left: 5%;
+    margin-left: 6%;
 }
 
 .instrucoes {
